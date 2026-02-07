@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+README.md
+DEPLOYMENT.md
+Dockerfile
+docker-compose.yml
+.nyc_output
+coverage
+.vercel
+.env
+seedData.js
